@@ -3,7 +3,7 @@ Welcome!
 
 ![](images/programming.jpg)
 
-Welcome to the python-training repository on GitHub! Here I will post new articles and lessons to teach Python and introductory programming principles. Programming can be a fun and exciting subject to learn, and my goal here is to make learning computer science an interesting endeavor. If you have comments or concerns, feel free to post them in the Issues section of this repository on GitHub.
+Welcome to the python-training repository on GitHub! Here I will post new articles and lessons to teach Python and introductory programming principles. Programming can be a fun and exciting subject to learn, and my goal here is to make learning computer science an interesting endeavor. If you have comments or concerns, feel free to post them in the **Issues** section of this repository on GitHub.
 
 Here are my thoughts regarding the content that will be posted here:
 
